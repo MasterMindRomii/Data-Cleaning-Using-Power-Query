@@ -30,5 +30,5 @@ To follow along with this project, download the sample data from Kaggle:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/PowerQueryPractice.git
-cd PowerQueryPractice
+git clone https://github.com/MasterMindRomii/Data-Cleaning-Using-Power-Query
+cd Data-Cleaning-Using-Power-Query
