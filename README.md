@@ -32,23 +32,3 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/MasterMindRomii/Data-Cleaning-Using-Power-Query
 cd Data-Cleaning-Using-Power-Query
-
-## Data Structure
-
-PowerQueryPractice/
-├── Data/
-│   └── sample_data.csv
-├── PowerQuerySteps/
-│   ├── ColumnProfiling.pq
-│   ├── DealingWithMissingValues.pq
-│   ├── EncodingNulls.pq
-│   ├── ImputingMissingValues.pq
-│   ├── WorkingWithDates.pq
-│   ├── AddingNewColumns.pq
-│   ├── SplittingExtractingData.pq
-│   ├── ExtractingFirstItem.pq
-│   ├── TextSentimentAnalysis.pq
-│   └── FilteringUnnecessaryData.pq
-├── README.md
-└── PowerBIProject.pbix
-
